@@ -1,0 +1,41 @@
+body {
+    background-color: #ecfefe;"
+
+}
+
+li{
+    color:#6f4715;
+   
+}
+p{
+    color:#6f4715;  
+}
+
+th{
+    
+    color:#56a4a4;
+} 
+td{
+    color:#6f4715;
+     
+}
+
+strong{
+    color: #50504a;
+}
+
+
+  h1{
+color:#5e9393;
+  }
+h4{
+    color:#66bfbf;
+}
+  hr{
+    
+    border-style:none;
+    border-top-style: dotted;
+    border-color:#c7f7e4f4;
+    border-width: 5px;
+    width: 10%;
+  }
