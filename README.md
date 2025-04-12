@@ -42,14 +42,3 @@ Bu repo herkese açık. Sen de yazılım öğrenmeye başladıysan, kendi klasö
 
 ---
 
-## 📬 İletişim
-
-Benimle bağlantıya geçmek istersen:  
-📧 ornekmail@protonmail.com  
-📸 Instagram: [@yazilimogreniyorum](https://instagram.com/yazilimogreniyorum)
-
----
-
-## 📄 Lisans
-
-Bu proje MIT lisansı ile sunulmuştur. Özgürce kullanabilir, paylaşabilirsin.
