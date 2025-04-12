@@ -24,7 +24,6 @@ Uzun zamandır yazılıma merak duyuyordum. Kendi projelerimi hayata geçirmek, 
 ### 📚 Kullandığım Kaynaklar:
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
-- [CS50 – Harvard's Introduction to Computer Science](https://cs50.harvard.edu/)
 - YouTube'da: Barış Özcan, Kodluyoruz, Sadık Turan
 
 ---
